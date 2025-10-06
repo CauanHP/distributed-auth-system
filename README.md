@@ -512,16 +512,3 @@ spec:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 👨‍💻 Autor
-
-[Seu Nome] - [seu.email@exemplo.com]
-
-## 🙏 Agradecimentos
-
-- FastAPI por um framework incrível
-- PostgreSQL pela confiabilidade
-- Redis pela performance
-- JWT por tokens seguros
-- OAuth2 pela padronização
-- A comunidade de segurança por todas as boas práticas
-
